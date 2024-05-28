@@ -54,7 +54,7 @@ Tạo yêu cầu GET /users/:id:
 
 Nhấp vào nút "New Request" và chọn "GET" làm phương thức.
 Nhập "https://api.example.com/users/:id" vào trường URL.
-Thay thế ":id" bằng ID của người dùng bạn muốn lấy thông tin. Ví dụ: [đã xoá URL không hợp lệ]
+Thay thế ":id" bằng ID của người dùng bạn muốn lấy thông tin.
 Nhấp vào nút "Send" để gửi yêu cầu.
 Xác minh kết quả GET /users/:id:
 
@@ -73,8 +73,6 @@ JSON
   "email": "janedoe@example.com",
   "age": 35
 }
-Hãy thận trọng khi sử dụng các đoạn mã.
-content_copy
 * Nhấp vào nút "Send" để gửi yêu cầu.
 Xác minh kết quả PUT /users/:id:
 
@@ -95,9 +93,3 @@ Nội dung phản
   
 ### hình ảnh minh họa 
 
-Markdown 
-
-![Alt text](https://drive.google.com/file/d/1UKAa4CGOZ21gTqJDoJNmQ_5PHC_LRZsA/view?usp=drive_link)
-![Alt text](https://drive.google.com/file/d/1jL0F9hTv6HhM1ntYNf8S5LID2XLbr5KD/view?usp=drive_link)
-![Alt text](https://drive.google.com/file/d/1zoPXiHLJWIcU_p7ztunnTm5QljqCs7JZ/view?usp=drive_link)
-![Alt text](https://drive.google.com/file/d/1zQmbSr9xiDzehUymDGJoImpopJhYEl4n/view?usp=drive_link)
