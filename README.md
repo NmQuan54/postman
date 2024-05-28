@@ -92,4 +92,8 @@ Nội dung phản
 
   
 ### hình ảnh minh họa 
+![image1](https://github.com/NmQuan54/postman/assets/96828932/a6521049-28c5-447b-ac6a-0769cf38bf47)
+![image2](https://github.com/NmQuan54/postman/assets/96828932/7b7917d2-24e2-44a4-89fa-63096218fb0b)
+![postimage](https://github.com/NmQuan54/postman/assets/96828932/35a87ea4-7fe2-4a6d-96ab-ef86aa67384b)
+![deleteimage](https://github.com/NmQuan54/postman/assets/96828932/a2d284f7-5e46-4b94-b140-a853fbbeddcc)
 
